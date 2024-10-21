@@ -1,0 +1,28 @@
+.MyNavBar{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  padding: 15px 20px;
+  font-family: 'Nunito Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+.MyNavBar svg{
+    display: inline-block;
+   vertical-align: top;
+}
+.MyButton {
+    margin-right: 12px;
+}
+
+.MyNavBar span{
+    margin-right: 15px;
+}
+.MyNavBar h1 {
+    display: inline-block;
+    vertical-align: top;
+    margin: 6px 0 6px 10px;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 1;
+  }
