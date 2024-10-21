@@ -84,6 +84,6 @@ To create a new story for a component, follow these steps:
 
 ## For References
 
-- [Notion Page to understand more precisely](https://infrequent-college-310.notion.site/Storybook-1129c816267180fabb49fd7623bda93f?pvs=4)
+- [Notion Page to understand more precisely](https://infrequent-college-310.notion.site/StoryBook-1269c816267180f6b871ca2d2c5efe54?pvs=4)
 - [Storybook Documentation](https://storybook.js.org/docs/react/get-started/introduction)
 
